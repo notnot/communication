@@ -1,6 +1,7 @@
 Go communication packages :
 
 	rs232 : RS-232 serial device (Linux, OS X)
-
+	(docs @ http://godoc.org/github.com/notnot/communication/rs232#pkg-index)
+	
 
 
