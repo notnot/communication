@@ -1,2 +1,6 @@
-Go communication packages
+Go communication packages :
+
+	rs232 : RS-232 serial device (Linux, OS X)
+
+
 
